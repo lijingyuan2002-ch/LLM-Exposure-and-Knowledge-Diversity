@@ -19,7 +19,7 @@ Purpose: Run logistic regression models to analyze the relationship between LLM 
 # Data Description
 Three datasets are required for analysis:
 1. Main bibliometric CSV files
-Ten CSV files containing all treatment, outcome and covariate indicators for regression & CEM analysis. All files are archived on Zenodo (https://zenodo.org/records/21090759?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjBjZDM5ODZkLTA2MjgtNGJmNC1iZWNiLWJmNWEyYjU0MmZmYyIsImRhdGEiOnt9LCJyYW5kb20iOiI3MTVkNDA1MTIzYThlYzQ2ZjhkMjU1YzgxNTJlYTI2MCJ9.PZxEs5YfifjAWY7L7caCF_dT9lV0Ec2HOvtFAx8-Mo6Os1V2jnO9O_BMXMwKreErbzl7eA9vqSXPGEPG8fbT2Q).
+Ten CSV files containing all treatment, outcome and covariate indicators for regression & CEM analysis. All files are archived on Zenodo (https://doi.org/10.5281/zenodo.21090759).
 
 2. OpenAlex_topic_mapping_table.xlsx
 Topic-field classification lookup table for OpenAlex topics. Reference: https://developers.openalex.org/api-reference/topics/list-topics
